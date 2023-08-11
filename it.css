@@ -1,0 +1,47 @@
+p{
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 250px;
+    color: rgb(86, 7, 31);
+    font-size: 35px;   
+   
+}
+pre{
+    padding-left: 45px;
+    font-size: 15px;
+}
+video{
+    padding-top: 40px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 39px;
+    border-radius: 1px;
+}
+
+h3{
+    padding-left: 20px;
+}
+a {
+    text-decoration: none;
+    color: wheat;
+}
+
+li {
+    text-decoration: none;
+    color: wheat;
+    font-size: 17px;
+}
+
+a:hover{
+    color: red;
+}
+
+.blood{
+    color: black;
+    font-size:20px; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.blood:hover{
+    color: aqua;
+}

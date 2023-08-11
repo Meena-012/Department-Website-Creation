@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.name{
+    height: 100vh;
+    width: 100%;
+    background-image: url("https://www.timeshighereducation.com/sites/default/files/styles/article785xauto/public/mortar-board-lens-flare_0.jpg?itok=K78Fix9f");
+    background-size: cover;
+    background-position: center;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 30px;
+    padding-left: 5%;
+    padding-right: 5%;
+    text-decoration: none;
+}
+.logo{
+    color: white;
+    font-size: 28px;
+    width: 80px;
+    height: 80px;
+    margin-right: 2%;
+}
+
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 20px;
+}
+nav ul li{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-style: small-caps;
+}
+nav ul li a:hover{
+    box-shadow: 0 12px 16px 0 rgba(224, 69, 69, 0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+   
+}
+center{
+    position: absolute;
+    top: 300px;
+    left: 580px;
+    color: rgb(0, 0, 0);
+    font-size: 90%;
+    font-family:Garamond;
+    font-size: 35px;
+   font-weight: 50%;
+   color: rgb(9, 9, 102);
+}
+pre{
+    position: absolute;
+    
+    color: rgb(9, 9, 102);
+    font-size: 20px;
+    font-weight: 10%;
+}
